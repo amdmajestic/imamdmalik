@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Project 1",
+    "description": "A description of project 1",
+    "image": "https://learn.g2.com/hubfs/iStock-1135541613.jpg",
+    "link": "https://example.com/project1"
+  },
+  {
+    "title": "Project 2",
+    "description": "A description of project 2",
+    "image": "https://www.monday.com/blog/wp-content/uploads/2021/06/cg45imeetz97Bi1aO7F7Hczm_okRzkD90cI_n85UntHmyphNEJH2J1DmAO1KPt0jjIPLAmCsKannpMIDta9armoNXipQOrsCRxDQPwBR7rjcawY6BD4-HxQDqxsgSQAFoA2LQfvT.png",
+    "link": "https://example.com/project2"
+  }
+]
