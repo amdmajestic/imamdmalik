@@ -1,1 +1,0 @@
-import{K as l,i as r}from"./chunk-3QKPUZ42.js";var t=class e{valueSource=new r(null);sharedValues=this.valueSource.asObservable();updatesharedValues(a){this.valueSource.next(a)}static \u0275fac=function(o){return new(o||e)};static \u0275prov=l({token:e,factory:e.\u0275fac,providedIn:"root"})};export{t as a};
