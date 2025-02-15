@@ -1,14 +1,14 @@
 [
   {
-    "title": "Project 1",
-    "description": "A description of project 1",
+    "title": "Campus Coordination System (CCS)",
+    "description": "The Campus Coordination System (CCS) is a platform designed for universities to streamline operations, connecting program managers, HODs, and timetable managers. It offers both automated and manual options for course allocation and timetable generation, ensuring efficient scheduling and coordination. CCS enhances communication and collaboration across departments, improving overall academic management.",
     "image": "https://learn.g2.com/hubfs/iStock-1135541613.jpg",
-    "link": "https://example.com/project1"
+    "link": "https://github.com/amdmajestic/project1"
   },
   {
-    "title": "Project 2",
-    "description": "A description of project 2",
+    "title": "Security Entrance System (SES)",
+    "description": "The Security Entrance System (SES) is a streamlined access control solution designed to verify and authenticate individuals before granting entry to secured areas. It uses advanced verification methods, such as password-based or role-based authentication, ensuring that only authorized personnel can gain access. The system is intuitive, allowing for easy management of permissions and real-time monitoring of access events. SES can be easily integrated with existing infrastructure, making it an ideal choice for enhancing security in various facilities, including corporate offices, warehouses, and other high-security environments.",
     "image": "https://www.monday.com/blog/wp-content/uploads/2021/06/cg45imeetz97Bi1aO7F7Hczm_okRzkD90cI_n85UntHmyphNEJH2J1DmAO1KPt0jjIPLAmCsKannpMIDta9armoNXipQOrsCRxDQPwBR7rjcawY6BD4-HxQDqxsgSQAFoA2LQfvT.png",
-    "link": "https://example.com/project2"
+    "link": "https://github.com/amdmajestic/project2"
   }
 ]
