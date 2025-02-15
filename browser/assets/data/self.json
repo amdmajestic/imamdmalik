@@ -1,0 +1,137 @@
+{
+  "about": {
+    "name": "Ahmad",
+    "profile-pic-src": "https://learn.g2.com/hubfs/iStock-1135541613.jpg",
+    "employment": "student"
+  },
+  "languages": {
+    "global-langs": [
+      {
+        "name": "urdu",
+        "degree": "native"
+      },
+      {
+        "name": "english",
+        "degree": "fluent"
+      }
+    ],
+    "computer-langs": [],
+    "programming-langs": [
+      {
+        "name": "c++",
+        "alias": "cpp",
+        "degree": "basics"
+      },
+      {
+        "name": "java",
+        "alias": ["java"],
+        "degree": "efficent"
+      },
+      {
+        "name": "javascript",
+        "alias": ["js"],
+        "degree": "efficent"
+      },
+      {
+        "name": "html",
+        "alias": ["html", "html"],
+        "degree": "pro"
+      },
+      {
+        "name": "css",
+        "alias": ["css"],
+        "degree": "efficent"
+      },
+      {
+        "name": "javascript",
+        "alias": ["js"],
+        "degree": "efficent"
+      },
+      {
+        "name": "php",
+        "alias": ["php"],
+        "degree": "pro"
+      },
+      {
+        "name": "python",
+        "alias": ["python", "py"],
+        "degree": "efficent"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Web Dev"
+    },
+    {
+      "name": "Full-Stack Dev"
+    },
+    {
+      "name": "Android Dev"
+    }
+  ],
+  "learned-technologes": [
+    {
+      "name": "Angular",
+      "child/framework-of": "javascript",
+      "image-src": "https://angular.io/assets/images/logos/angular/angular.png",
+      "description": ""
+    },
+    {
+      "name": "React",
+      "child/framework-of": "javascript",
+      "image-src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      "description": ""
+    },
+    {
+      "name": "Laravel",
+      "child/framework-of": "php",
+      "image-src": "https://laravel.com/img/logomark.min.svg",
+      "description": ""
+    },
+    {
+      "name": "JSP",
+      "child/framework-of": "java",
+      "image-src": "https://www.svgrepo.com/show/14636/jsp-open-file-format-with-java-logo.svg",
+      "description": ""
+    },
+    {
+      "name": "Django",
+      "child/framework-of": "python",
+      "image-src": "https://www.svgrepo.com/show/376363/django.svg",
+      "description": ""
+    }
+  ],
+  "social-links": [
+    {
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com",
+      "image-src": "https://www.svgrepo.com/show/108614/linkedin.svg"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com",
+      "image-src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+    },
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com",
+      "image-src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com",
+      "image-src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+    }
+  ],
+  "hobbies": [
+    {
+      "name": "football",
+      "image-src": "https://www.svgrepo.com/show/77510/football.svg"
+    },
+    {
+      "name": "badminton",
+      "image-src": "https://www.svgrepo.com/show/1129/badminton.svg"
+    }
+  ]
+}
